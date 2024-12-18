@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weather.png",
+      "description": "A responsive weather app using HTML, CSS, and JavaScript that shows real-time weather data based on user search.",
+      "skills": ["React.js", "Material UI"],
+      "demo": "https://taupe-cascaron-c9e8ff.netlify.app/",
+      "source": "https://github.com/Aasif1502/Weather-App.git"
+    },
+    {
+      "title": "Calculator",
+      "imageSrc": "projects/calculator.png",
+      "description": "A simple calculator app created with HTML, CSS, and JavaScript. It allows perform arithmetic operations. ",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://calci11.netlify.app/",
+      "source": "https://github.com/Aasif1502/calculator.git"
+    },
+    {
+      "title": "Symon Says Game",
+      "imageSrc": "projects/symon.png",
+      "description": "A Simon Says memory game built with HTML, CSS, and JavaScript, where players recall and repeat a sequence of colors.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://simonsaysgamebyasif.netlify.app/",
+      "source": "https://github.com/Aasif1502/Simon-Says-Game.git"
+    }
+  ]
